@@ -18,24 +18,13 @@ An intelligent, end-to-end time series analysis toolkit built in R & Shiny – f
 💎 Modern and clean Bootstrap UI via bslib
 
 💻 Technologies Used
-R, Shiny, forecast, rugarch, FinTS, tseries, rmarkdown
-
-ggplot2, bslib, ggfortify, and other visualization gems
-
-🧪 How to Run It
-Clone the repository
-git clone https://github.com/yourusername/smart-time-series-analyzer.git
-
-Run the app in R
-shiny::runApp()
+R, Shiny, forecast, rugarch, FinTS, tseries, rmarkdown ggplot2, bslib, ggfortify, and other visualization gems
 
 
 Run the app in R
 shiny::runApp()
 📌 Perfect For:
-Data Scientists and Analysts
-
-Time Series & Econometrics Enthusiasts
+Data Scientists and Analysts Time Series & Econometrics Enthusiasts
 
 Researchers working with financial, environmental, or sensor data
 
